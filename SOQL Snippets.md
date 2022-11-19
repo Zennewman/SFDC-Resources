@@ -1,9 +1,4 @@
----
-title: SOQL Snippets
-updated: 2022-09-13 20:36:50Z
-created: 2022-08-01 15:32:45Z
-author: Zen Newman
----
+// SOQL snippets that I use frequently as a Salesforce admin to retrieve data/metadata for an or. 
 
 // Retrieve Queue Names
 
