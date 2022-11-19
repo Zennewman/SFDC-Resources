@@ -1,4 +1,4 @@
-// SOQL snippets that I use frequently as a Salesforce admin to retrieve data/metadata for an or.
+SOQL snippets that I use frequently as a Salesforce admin to retrieve data/metadata for an or.
 
 // Retrieve Queue Names
 
